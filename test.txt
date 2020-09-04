@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1 + 1 = ?
 
 1 + 1 = 2
+=======
+1 + 1 = 15K
+>>>>>>> 55df9ff9829594a219d846808bd3dc491309e860
+
+AAAAAAAAABBBBBBBBBBCCCCCCCCCC
